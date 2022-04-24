@@ -1,27 +1,27 @@
 {
     "posts": [
       {
-        "userName": 1,
+        "userName": "kritika lamsal",
         "title": "Java",
         "body": "Introduction to java"
       },
       {
-        "userName": 2,
+        "userName": "Ritish lamsal",
         "title": "C++",
         "body": "Introduction to c++"
       },
       {
-        "userName": 3,
+        "userName": "Rivika lamsal",
         "title": "Python",
         "body": "Introduction to python"
       },
       {
-        "userName": 4,
+        "userName": "krishna prasad lamsal",
         "title": "Web Development",
         "body": "Introduction to Html and css"
       },
       {
-        "userName": 5,
+        "userName": "Rupa lamsal",
         "title": "ReactJS",
         "body": "Introduction to React JS"
       }
